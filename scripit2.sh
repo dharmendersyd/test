@@ -1,1 +1,2 @@
-ting stash command
+ting stash command this is ne wfile :wq
+
